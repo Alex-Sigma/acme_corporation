@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2023-07-06T21:15:38+02:00
-draft: true
+draft: false
 ---
 
 ## Contact Us

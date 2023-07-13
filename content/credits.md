@@ -1,7 +1,7 @@
 ---
 title: "Credits"
 date: 2023-07-06T21:16:14+02:00
-draft: true
+draft: false
 ---
 
 # Credits
