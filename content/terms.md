@@ -1,7 +1,8 @@
 ---
-title: ""
-date: 2023-07-06T21:16:40+02:00
-draft: false
+menu:
+  footer:
+    name: Terms of Use
+    weight: 200
 ---
 
 Terms

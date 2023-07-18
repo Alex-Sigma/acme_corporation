@@ -4,7 +4,7 @@ menu:
     name: Blog
     indetifier: blog
     weight: 110
-footer:
-  name: Blog
-  weight: 100
+  footer:
+    name: Blog
+    weight: 100
 ---

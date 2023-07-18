@@ -1,7 +1,7 @@
 ---
-title: ""
-date: 2023-07-06T21:16:25+02:00
-draft: false
+menu:
+  footer:
+    name: Privacy Policy
 ---
 
 # Privacy Policy
